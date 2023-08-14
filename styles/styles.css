@@ -93,5 +93,8 @@ img{
     height: 100;
     float: left ;
     display: hidden;
+    margin-left: 20px;
+    margin-right: 20px;
+    
     
 }
