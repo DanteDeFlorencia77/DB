@@ -91,6 +91,7 @@ h1{
 img{
     width: 100px;
     height: 100;
-    float: right;
+    float: left ;
+    display: hidden;
     
 }
